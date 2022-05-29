@@ -1,0 +1,43 @@
+.header{
+    text-align: center;
+    color: white;
+
+}
+
+ul,
+ol{
+    display: table;
+    margin: 0 auto;
+    color: white;
+}
+
+body{
+    background-image: url(https://envato-shoebox-0.imgix.net/19bd/e86e-bb87-47a9-b1f0-33a7673b3087/pasta13_b293.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=1775691020d9db7c7eb688a580695ecf);
+
+
+}
+
+.div{
+    color: white;
+}
+
+img{
+    margin: 0 auto;
+    display: table;
+}
+
+.main-body{
+     color: white;
+     text-align: center;
+
+}
+
+.page-header{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    color: white;
+}
